@@ -1,5 +1,6 @@
 import "./App.css";
 import { useEffect } from "react";
+import faceIO from '@faceio/fiojs'
 
 function App() {
   let faceio;
