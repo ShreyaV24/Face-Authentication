@@ -1,8 +1,36 @@
 # React + Vite
+# Face Authentication Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web application that demonstrates face authentication using the faceio library.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User authentication using face recognition
+- Secure login process
+- User-friendly interface
+
+## Technologies Used
+
+- React.js
+- faceio
+- CSS
+- Vite
+
+## Installation
+
+1. Clone the repository: git clone https://github.com/your-username/face-authentication-web.git
+2. Navigate to the project directory: cd face-authentication-web
+3. Install dependencies: npm i/yarn install
+
+
+## Usage
+
+1. Start the development server:
+
+npm run dev/yarn dev
+
+
+2. Open your browser and navigate to `http://localhost:3000` to view the app.
+
+
+
